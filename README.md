@@ -2,7 +2,7 @@
 
 ## **今年汇总 ✨**
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=sankeyangshu&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,84fab0,8fd3f4,a8edea,5ee7df&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankeyangshu&hide_border=true&layout=compact&bg_color=0,5ee7df,a8edea,8fd3f4,84fab0&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=sankeyangshu&hide_border=true&show_icons=true&line_height=21&bg_color=0,84fab0,8fd3f4,a8edea,5ee7df&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankeyangshu&hide_border=true&layout=compact&bg_color=0,5ee7df,a8edea,8fd3f4,84fab0&theme=graywhite&locale=cn" />
 
 <!--
 **sankeyangshu/sankeyangshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
