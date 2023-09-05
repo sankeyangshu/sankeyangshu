@@ -1,7 +1,9 @@
-<div align="center" style="font-size:18px;">
-  Hi there 👋 , I'm <b><a target="_blank" href="javascript:;">sankeyangshu</a></b>.<br/>
-  🚀 a Frontend Developer<br/>
-</div>
+<font size=5>
+  <div align="center">
+    Hi there 👋 , I'm <b><a target="_blank" href="javascript:;">sankeyangshu</a></b>.<br/>
+    🚀 a Frontend Developer<br/>
+  </div>
+</font>
 
 <h1 align="center"> 
     <a href="https://github.com/sankeyangshu">
