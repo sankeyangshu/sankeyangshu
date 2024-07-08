@@ -5,7 +5,7 @@
 
 <h1 align="center"> 
   <a href="https://github.com/sankeyangshu">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=从来没有真正的绝境，只有心灵的迷途;Never+really+desperate,+only+the+lost+of+the+soul&center=true&size=18" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=从来没有真正的绝境，只有心灵的迷途;Never+really+desperate,+only+the+lost+of+the+soul&center=true&size=18&width=550" />
   </a>
 </h1>
 
