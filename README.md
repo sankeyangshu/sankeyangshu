@@ -12,17 +12,23 @@
 ### **✨ Skills and Tools**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nestjs,vue,react," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,tailwind,nestjs,bun,nextjs,nuxtjs" />
 </div>
 
 ### **📈 Summary for this year**
 
 <div align="center">
   <span>&emsp;&emsp;</span>
-  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=sankeyangshu&hide_border=true&show_icons=true&bg_color=0,84fab0,8fd3f4,a8edea,5ee7df&theme=graywhite" />
+  <img height="175px" src="https://github-readme-stats-fast.vercel.app/api?username=sankeyangshu&hide_border=true&show_icons=true&bg_color=0,84fab0,8fd3f4,a8edea,5ee7df&theme=graywhite" />
   <span>&emsp;&emsp;</span>
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankeyangshu&hide_border=true&layout=compact&bg_color=0,5ee7df,a8edea,8fd3f4,84fab0&theme=graywhite" />
+  <img height="175px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sankeyangshu&hide_border=true&layout=compact&bg_color=0,5ee7df,a8edea,8fd3f4,84fab0&theme=graywhite" />
   <span>&emsp;&emsp;</span>
+</div>
+
+### **📊 Recent Activity**
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankeyangshu&theme=vue" />
 </div>
 
 <!--
